@@ -23,7 +23,7 @@ she/her/hers
 email me -> ramya12gullapalli@gmail.com
 find me on linkedIn -> https://www.linkedin.com/in/ramya-gullapalli-9005b21b8/
 
-🌱 I’m currently learning
+🌱 I’m currently learning:
 full stack development with MEAN stack
 
 
